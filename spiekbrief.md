@@ -15,3 +15,8 @@ Slecht voorbeeld: "update"
 Het goede voorbeeld is beter omdat het met "Spiekbrief: " begint en meteen duidelijk maakt wat er 
 exact is veranderd, terwijl "update" veel te vaag is en later niet helpt om wijzigingen terug te 
 vinden.
+
+## 3. Gitignore
+
+Een ".gitignore"-bestand zorgt ervoor dat Git opgegeven bestanden en patronen zoals tijdelijke 
+systeem- of logbestanden negeert en niet meeneemt in je commits.
