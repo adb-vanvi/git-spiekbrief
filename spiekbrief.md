@@ -1,4 +1,4 @@
-# Spiekbrief Git en GitHub
+# Spiekbrief Git en GitHub, versie van de website
 
 ## 1. Clone, commit, push en pull
 
