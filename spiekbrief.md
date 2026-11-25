@@ -31,3 +31,10 @@ je op de allerlaatste versie verder werkt en geen conflicten veroorzaakt.
 
 De foute commit verdwijnt niet uit de geschiedenis omdat Git een onveranderlijk logboek bijhoudt
 een revert maakt een nieuwe commit aan die de eerdere wijziging weer ongedaan maakt.
+
+## 6. Branches en pull requests
+
+Een branch is een aparte zijtak van je project waarin je veilig wijzigingen kunt uitwerken 
+zonder de hoofdversie te verstoren. De "main"-branch blijft hierdoor altijd de stabiele, werkende 
+versie. Met een pull request stel je voor om je aanpassingen uit de branch te laten nakijken 
+en samen te voegen (mergen) met "main".
