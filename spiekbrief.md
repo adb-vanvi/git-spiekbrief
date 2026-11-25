@@ -26,3 +26,8 @@ systeem- of logbestanden negeert en niet meeneemt in je commits.
 Ik heb een wijziging die rechtstreeks op GitHub was gemaakt met een pull binnengehaald naar mijn 
 lokale computer. Je doet aan het begin van elke les altijd eerst een pull zodat je zeker weet dat 
 je op de allerlaatste versie verder werkt en geen conflicten veroorzaakt.
+
+## 5. Terugdraaien
+
+De foute commit verdwijnt niet uit de geschiedenis omdat Git een onveranderlijk logboek bijhoudt
+een revert maakt een nieuwe commit aan die de eerdere wijziging weer ongedaan maakt.
