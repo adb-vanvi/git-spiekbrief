@@ -38,3 +38,10 @@ Een branch is een aparte zijtak van je project waarin je veilig wijzigingen kunt
 zonder de hoofdversie te verstoren. De "main"-branch blijft hierdoor altijd de stabiele, werkende 
 versie. Met een pull request stel je voor om je aanpassingen uit de branch te laten nakijken 
 en samen te voegen (mergen) met "main".
+
+## 7. Mijn conflict
+
+Er ontstond een conflict omdat ik de eerste regel van het bestand tegelijk op de website van 
+GitHub en lokaal op mijn laptop anders had aangepast. Ik heb ervoor gekozen om beide versies te 
+combineren tot één gezamenlijke titel zodat geen van beide aanpassingen verloren ging. Daarna heb 
+ik de conflictmarkeringen weggehaald om de merge veilig te kunnen afronden.
