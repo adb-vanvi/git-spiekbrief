@@ -20,3 +20,9 @@ vinden.
 
 Een ".gitignore"-bestand zorgt ervoor dat Git opgegeven bestanden en patronen zoals tijdelijke 
 systeem- of logbestanden negeert en niet meeneemt in je commits.
+
+## 4. Pull
+
+Ik heb een wijziging die rechtstreeks op GitHub was gemaakt met een pull binnengehaald naar mijn 
+lokale computer. Je doet aan het begin van elke les altijd eerst een pull zodat je zeker weet dat 
+je op de allerlaatste versie verder werkt en geen conflicten veroorzaakt.
